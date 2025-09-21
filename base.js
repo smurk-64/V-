@@ -741,7 +741,7 @@ let allmenu = tennortimewisher + ` *@${sender.split("@")[0]}* 👋🏻
                 isForwarded: true,
                externalAdReply: {
                    showAdAttribution: true,
-                   title: `𝐊𝐈𝐍𝐆𝐕𝐎𝐍 𝐌𝐃`,-
+                   title: `𝐊𝐈𝐍𝐆𝐕𝐎𝐍 𝐌𝐃`,
                    mediaType: 3,
                    renderLargerThumbnail: false,
                    thumbnailUrl: 'https://files.catbox.moe/c2ad0m.png',
