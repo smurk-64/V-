@@ -41,7 +41,7 @@
 ## 👑 Developer Info...{i meant my info😂😂}..
 
 <p align="center">
-  <a href="https://wa.me/254720326316"><img src="https://img.shields.io/badge/Contact-KINGVON-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/254793894612"><img src="https://img.shields.io/badge/Contact-KINGVON-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/SilverTosh"><img src="https://img.shields.io/badge/GitHub-SilverTosh-6e40c9?style=for-the-badge&logo=github" /></a>
   <a href="https://whatsapp.com/channel/0029Vb5tbcZEKyZEHbicrV1y"><img src="https://img.shields.io/badge/Channel-KINGVON-green?style=for-the-badge&logo=whatsapp" /></a>
   <a href="https://chat.whatsapp.com/HOjijD27VBUC9RiI9ObYvY"><img src="https://img.shields.io/badge/Support%20Group-Join-blue?style=for-the-badge&logo=whatsapp" /></a>
